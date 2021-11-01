@@ -19,5 +19,5 @@
 </br>
 <p> Grade: 125% </p>
 <div style="display: inline"><br>
-   <img src="https://cdn.discordapp.com/attachments/461563270411714561/903597715114557470/Screenshot_2021-10-29_at_11.52.15.png" alt="https://cdn.discordapp.com/attachments/461563270411714561/903597715114557470/Screenshot_2021-10-29_at_11.52.15.png" class="transparent shrinkToFit" width="1800" height="250">
+   <img src="https://cdn.discordapp.com/attachments/461563270411714561/903597715114557470/Screenshot_2021-10-29_at_11.52.15.png" alt="https://cdn.discordapp.com/attachments/461563270411714561/903597715114557470/Screenshot_2021-10-29_at_11.52.15.png" class="transparent shrinkToFit" width="2000" height="250">
 </div>
